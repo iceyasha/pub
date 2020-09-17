@@ -1,4 +1,7 @@
 #+TITLE: ctesta
+#+PUBLISHED: true
+#+SLIDE: true
+#+PERMALINK: ctesta
 
 ** a
 ** b

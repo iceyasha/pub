@@ -7,11 +7,15 @@
 2020.9.18
 ** 存储器山
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
+*** 问题: 不确定性
+操作系统/数据库 如何决定从内存替换哪一页?
+**** 衡量标准
+=AMAT = (PHit·TM) + (PMiss·TD)=
 *** 武器:
 局部性原理
 [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
 ** 策略
-*** 最有替换策略(OTP)
+*** 最优替换策略(OTP)
 *** LRU
 *** Clock
 ** OPT

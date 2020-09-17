@@ -6,6 +6,7 @@
 ** 缓存更新算法
 2020.9.18
 ** 存储器山
+*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
 ** 策略
 ** LRU
 ***

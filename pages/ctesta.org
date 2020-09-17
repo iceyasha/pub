@@ -3,7 +3,7 @@
 #+SLIDE: true
 #+PERMALINK: ctesta
 
-** 浅谈缓存策略
+** 系统缓存策略
 2020.9.18
 ** LRU
 ***

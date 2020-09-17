@@ -3,8 +3,8 @@
 #+SLIDE: true
 #+PERMALINK: ctesta
 
-** a
-** b
-** c
-*** 11
-*** 22
+** LRU
+** Clock算法
+** 总结
+*** a
+*** b

@@ -5,7 +5,7 @@
 
 ** LRU
 *** a
-[[https://logseq.com/static/img/logo.png][image]]
+[[https://raw.githubusercontent.com/iceyasha/img/master/20200515165023.png][image]]
 ** Clock算法
 ** 总结
 *** b

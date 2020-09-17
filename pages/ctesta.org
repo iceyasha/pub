@@ -9,7 +9,7 @@
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
 *** 问题: 不确定性
 操作系统/数据库 如何决定从内存替换哪一页?
-**** 衡量标准
+**** 衡量标准: Average Memory AccessTim( =AMAT= )
 $$AMAT = (PHit·TM) + (PMiss·TD)$$
 *** 武器:
 局部性原理

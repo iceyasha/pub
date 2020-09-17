@@ -15,6 +15,7 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
 ** 策略
 *** 最优替换策略(OTP)
+*** 简单策略(FIFO)
 *** LRU
 *** Clock
 ** OPT

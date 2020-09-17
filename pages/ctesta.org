@@ -3,8 +3,10 @@
 #+SLIDE: true
 #+PERMALINK: ctesta
 
-** 系统缓存策略
+** 缓存更新算法
 2020.9.18
+** 存储器山
+** 策略
 ** LRU
 ***
 ** Clock算法

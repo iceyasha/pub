@@ -21,9 +21,5 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 Belady的异常
 *** LRU(Least-Recently-Used)
 *** Clock
-** OPT
-** FIFO
-** LRU
-** Clock算法
 ** 总结
 *** b

@@ -7,9 +7,11 @@
 2020.9.18
 ** 存储器山
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
-** 局部性原理
+*** 武器:
+局部性原理
 [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
-** 页面置换算法
+** 策略
+*** 最有替换策略(OTP)
 *** LRU
 *** Clock
 ** OPT

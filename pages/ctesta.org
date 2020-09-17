@@ -3,8 +3,11 @@
 #+SLIDE: true
 #+PERMALINK: ctesta
 
+** 浅谈缓存策略
+2020.9.18
 ** LRU
-*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917221709.png][image]]
+***
 ** Clock算法
+**
 ** 总结
 *** b

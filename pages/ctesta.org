@@ -8,6 +8,10 @@
 ** 存储器山
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
 ** 策略
+*** 局部性原理
+** 页面置换算法
+*** LRU
+*** Clock
 ** LRU
 ***
 ** Clock算法

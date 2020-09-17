@@ -5,8 +5,7 @@
 
 ** LRU
 *** a
-[[https://raw.githubusercontent.com/iceyasha/img/master/20200515165023.png][image]]
-*** [[https://i.loli.net/2020/09/17/twaOeyKDhV5FZcC.png][image]]
+[[https://i.loli.net/2020/09/17/5Q3jZEF7X18Uyu4.png][image]]
 ** Clock算法
 ** 总结
 *** b

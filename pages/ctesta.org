@@ -18,6 +18,7 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 ** 策略
 *** 最优替换策略(OTP)
 *** 简单策略(FIFO)
+Belady的异常
 *** LRU(Least-Recently-Used)
 *** Clock
 ** OPT

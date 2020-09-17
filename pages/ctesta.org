@@ -1,4 +1,4 @@
-#+TITLE: 缓存策略
+#+TITLE: 浅谈缓存策略
 #+PUBLISHED: true
 #+SLIDE: true
 #+PERMALINK: ctesta

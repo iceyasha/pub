@@ -4,8 +4,7 @@
 #+PERMALINK: ctesta
 
 ** LRU
-*** a
-[[https://i.loli.net/2020/09/17/5Q3jZEF7X18Uyu4.png][image]]
+*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917221709.png][image]]
 ** Clock算法
 ** 总结
 *** b

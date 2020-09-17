@@ -7,5 +7,5 @@
 ** Clock算法
 ** 总结
 *** a
-![image][https://www.google.com/search?q=t%E5%9B%BE%E7%89%87&tbm=isch&source=iu&ictx=1&fir=juD6yKnWC2DXnM%252CXcLVhcruYLUjHM%252C_&vet=1&usg=AI4_-kTd8zcpiec6UKpTRC7sqchoVvzGUQ&sa=X&ved=2ahUKEwjc3dDemfDrAhXElOYKHe1gCGgQ9QF6BAgKECg&biw=1440&bih=798#imgrc=juD6yKnWC2DXnM]
+![image](https://www.google.com/search?q=t%E5%9B%BE%E7%89%87&tbm=isch&source=iu&ictx=1&fir=juD6yKnWC2DXnM%252CXcLVhcruYLUjHM%252C_&vet=1&usg=AI4_-kTd8zcpiec6UKpTRC7sqchoVvzGUQ&sa=X&ved=2ahUKEwjc3dDemfDrAhXElOYKHe1gCGgQ9QF6BAgKECg&biw=1440&bih=798#imgrc=juD6yKnWC2DXnM)
 *** b

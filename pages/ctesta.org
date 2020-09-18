@@ -6,6 +6,7 @@
 ** 缓存更新算法
 2020.9.18
 ** 存储器山
+*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917230959.png][image]]
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223107.png][image]]
 *** 问题: 不确定性
 操作系统/数据库 如何决定从内存替换哪一页?

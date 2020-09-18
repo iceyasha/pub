@@ -30,10 +30,11 @@ LRU-K
 *** 优化:
 **** 添加脏页bit(dirty bit / modified bit)
 ** 测试
-*** 无局部性访问[[https://i.loli.net/2020/09/18/58Y3zUudcTSvsPw.png][image]]
+*** 无局部性访问
+*** [[https://i.loli.net/2020/09/18/58Y3zUudcTSvsPw.png][image]]
 *** 80—20负载
-[[https://i.loli.net/2020/09/18/OcTy7oeK9hxribY.png][image]]
+*** [[https://i.loli.net/2020/09/18/OcTy7oeK9hxribY.png][image]]
 *** 循环顺序访问
-[[https://i.loli.net/2020/09/18/Y6OfluXAiR7hdTz.png][image]]
+*** [[https://i.loli.net/2020/09/18/Y6OfluXAiR7hdTz.png][image]]
 ** 总结
 ***

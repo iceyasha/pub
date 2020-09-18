@@ -1,9 +1,9 @@
-#+TITLE: 浅谈缓存策略
+#+TITLE: 页面置换算法
 #+PUBLISHED: true
 #+SLIDE: true
 #+PERMALINK: ctesta
 
-** 缓存更新算法
+** 页面置换算法
 2020.9.18
 ** 存储器山
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917230959.png][image]]

@@ -15,8 +15,8 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 *** 武器:  ^^局部性原理^^
 **** 空间局部性（spatial locality)
 **** 时间局部性（temporal locality)
-*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
 ** 策略
+*** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
 *** 最优替换策略(OTP)
 *** 简单策略(FIFO)
 **** Belady异常

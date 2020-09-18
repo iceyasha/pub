@@ -17,14 +17,14 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 **** 时间局部性（temporal locality)
 ** 策略
 *** [[https://raw.githubusercontent.com/iceyasha/img/master/20200917223334.png][image]]
-*** 最优替换策略(OTP)
-*** 简单策略(FIFO)
-**** Belady异常
-*** LRU(Least-Recently-Used)
-**** [[https://i.loli.net/2020/09/18/XwhUn42sDyGFfB5.png][image]]
-*** Clock 算法
-**** [[https://i.loli.net/2020/09/18/vf6rLjuBiOp4C9V.png][image]]
-**** [[https://i.loli.net/2020/09/18/lVjfYm6ZBD3xJp1.png][image]]
+** 最优替换策略(OTP)
+** 简单策略(FIFO)
+*** Belady异常
+** LRU(Least-Recently-Used)
+*** [[https://i.loli.net/2020/09/18/XwhUn42sDyGFfB5.png][image]]
+** Clock 算法
+*** [[https://i.loli.net/2020/09/18/vf6rLjuBiOp4C9V.png][image]]
+*** [[https://i.loli.net/2020/09/18/lVjfYm6ZBD3xJp1.png][image]]
 ** 测试
 *** 无局部性访问
 [[https://i.loli.net/2020/09/18/58Y3zUudcTSvsPw.png][image]]

@@ -31,5 +31,6 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 *** 80—20负载
 [[https://i.loli.net/2020/09/18/OcTy7oeK9hxribY.png][image]]
 *** 循环顺序访问
+[[https://i.loli.net/2020/09/18/Y6OfluXAiR7hdTz.png][image]]
 ** 总结
 ***

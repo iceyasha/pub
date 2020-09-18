@@ -22,6 +22,8 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 *** Belady异常
 ** LRU(Least-Recently-Used)
 *** [[https://i.loli.net/2020/09/18/XwhUn42sDyGFfB5.png][image]]
+*** 优化
+LRU-K
 ** Clock 算法
 *** [[https://i.loli.net/2020/09/18/vf6rLjuBiOp4C9V.png][image]]
 *** [[https://i.loli.net/2020/09/18/lVjfYm6ZBD3xJp1.png][image]]

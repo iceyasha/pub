@@ -37,5 +37,6 @@ LRU-K
 *** 循环顺序访问
 *** [[https://i.loli.net/2020/09/18/Y6OfluXAiR7hdTz.png][image]]
 ** 总结
-** http://www.cs.cmu.edu/~christos/courses/721-resources/p297-o_neil.pdf
-** http://www.vldb.org/conf/1994/P439.PDF
+** 参考
+*** [[http://www.cs.cmu.edu/~christos/courses/721-resources/p297-o_neil.pdf][The LRU-K Page Replacement Algorithm For Database Disk Buffering]]
+*** [[http://www.vldb.org/conf/1994/P439.PDF][2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm]]

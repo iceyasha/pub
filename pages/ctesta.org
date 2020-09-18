@@ -26,6 +26,7 @@ $$AMAT = (P_Hit·T_M) + (P_Miss·T_D)$$
 **** [[https://i.loli.net/2020/09/18/vf6rLjuBiOp4C9V.png][image]]
 **** [[https://i.loli.net/2020/09/18/lVjfYm6ZBD3xJp1.png][image]]
 ** 测试
-***
+*** 无局部性工作负载
+[[https://i.loli.net/2020/09/18/58Y3zUudcTSvsPw.png][image]]
 ** 总结
 ***
